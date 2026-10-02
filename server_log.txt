@@ -1,0 +1,802 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:14:28] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:14:43] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:26:52] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:55] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:56] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:57] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:30:49] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:31:56] 
+[01:31:56] Server Plugins
+[01:31:56] --------------
+[01:31:56]  Loading plugin: mysql
+[01:31:56] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: irc
+[01:31:56] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: streamer
+[01:31:56] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: sscanf
+[01:31:56] 
+
+[01:31:56]  ===============================
+
+[01:31:56]       sscanf plugin loaded.     
+
+[01:31:56]          Version:  2.8.2        
+
+[01:31:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:31:56]  ===============================
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: dns
+[01:31:56] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: geoip
+[01:31:56] GeoIP_Plugin got loaded.
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: audio
+[01:31:56] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[01:31:56]   Loaded.
+[01:31:56]  Loading plugin: Whirlpool
+[01:31:56]  
+[01:31:56]  ==================
+[01:31:56]  
+[01:31:56]   Whirlpool loaded
+[01:31:56]  
+[01:31:56]  ==================
+[01:31:56]  
+[01:31:56]   Loaded.
+[01:31:56]  Loaded 8 plugins.
+
+[01:31:56] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:31:56] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:13] 
+[01:32:13] Server Plugins
+[01:32:13] --------------
+[01:32:13]  Loading plugin: mysql
+[01:32:13] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: irc
+[01:32:13] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: streamer
+[01:32:13] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: sscanf
+[01:32:13] 
+
+[01:32:13]  ===============================
+
+[01:32:13]       sscanf plugin loaded.     
+
+[01:32:13]          Version:  2.8.2        
+
+[01:32:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:32:13]  ===============================
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: dns
+[01:32:13] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: geoip
+[01:32:13] GeoIP_Plugin got loaded.
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: audio
+[01:32:13] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[01:32:13]   Loaded.
+[01:32:13]  Loading plugin: Whirlpool
+[01:32:13]  
+[01:32:13]  ==================
+[01:32:13]  
+[01:32:13]   Whirlpool loaded
+[01:32:13]  
+[01:32:13]  ==================
+[01:32:13]  
+[01:32:13]   Loaded.
+[01:32:13]  Loaded 8 plugins.
+
+[01:32:13] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:32:13] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:33:20] 
+[01:33:20] Server Plugins
+[01:33:20] --------------
+[01:33:20]  Loading plugin: mysql
+[01:33:20] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: irc
+[01:33:20] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: streamer
+[01:33:20] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: sscanf
+[01:33:20] 
+
+[01:33:20]  ===============================
+
+[01:33:20]       sscanf plugin loaded.     
+
+[01:33:20]          Version:  2.8.2        
+
+[01:33:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:33:20]  ===============================
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: dns
+[01:33:20] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: geoip
+[01:33:20] GeoIP_Plugin got loaded.
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: audio
+[01:33:20] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[01:33:20]   Loaded.
+[01:33:20]  Loading plugin: Whirlpool
+[01:33:20]  
+[01:33:20]  ==================
+[01:33:20]  
+[01:33:20]   Whirlpool loaded
+[01:33:20]  
+[01:33:20]  ==================
+[01:33:20]  
+[01:33:20]   Loaded.
+[01:33:20]  Loaded 8 plugins.
+
+[01:33:20] 
+[01:33:20] Filterscripts
+[01:33:20] ---------------
+[01:33:20]   Loading filterscript 'irc.amx'...
+[01:33:20] *** Audio Plugin: Started TCP server on port 7777
+[01:33:20] [MYSQL] Succesfully connected to MySQL database (IRC fs).
+[01:33:20]   Loading filterscript 'mdebug.amx'...
+[01:33:20] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[01:33:20]   * By Simon Campbell *
+  *********************
+[01:33:20]   * Version: 2.0      *
+  *********************
+[01:33:20]   * -- LOADED         *
+  *********************
+
+[01:33:20]   Loading filterscript 'FingexMapEditor.amx'...
+[01:33:20] >> The FingeX Map Editor has been LOADED.
+[01:33:20]   Loading filterscript 'anim.amx'...
+[01:33:20]   Loading filterscript 'sanim.amx'...
+[01:33:20]   Loading filterscript 'yrace.amx'...
+[01:33:20] 
++--------------------------------+
+[01:33:20] | Yagu's Race Filterscript v0.4a |
+[01:33:20] +--------------LOADED------------+
+
+[01:33:20]   Loaded 6 filterscripts.
+
+[01:33:20] [INITIALIZE] Gamemode loaded.
+[01:33:20] [INITIALIZE] Starting xMovie logging.
+[01:33:20] [MYSQL] Successful connection to MySQL database.
+[01:33:20] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[01:33:20]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[01:33:20] Number of vehicle models: 11
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:33:36] 
+[01:33:36] Server Plugins
+[01:33:36] --------------
+[01:33:36]  Loading plugin: mysql
+[01:33:36] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: irc
+[01:33:36] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: streamer
+[01:33:36] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: sscanf
+[01:33:36] 
+
+[01:33:36]  ===============================
+
+[01:33:36]       sscanf plugin loaded.     
+
+[01:33:36]          Version:  2.8.2        
+
+[01:33:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:33:36]  ===============================
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: dns
+[01:33:36] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: geoip
+[01:33:36] GeoIP_Plugin got loaded.
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: audio
+[01:33:36] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[01:33:36]   Loaded.
+[01:33:36]  Loading plugin: Whirlpool
+[01:33:36]  
+[01:33:36]  ==================
+[01:33:36]  
+[01:33:36]   Whirlpool loaded
+[01:33:36]  
+[01:33:36]  ==================
+[01:33:36]  
+[01:33:36]   Loaded.
+[01:33:36]  Loaded 8 plugins.
+
+[01:33:36] 
+[01:33:36] Filterscripts
+[01:33:36] ---------------
+[01:33:36]   Loading filterscript 'irc.amx'...
+[01:33:36] *** Audio Plugin: Started TCP server on port 7777
+[01:33:36] [MYSQL] Succesfully connected to MySQL database (IRC fs).
+[01:33:36]   Loading filterscript 'mdebug.amx'...
+[01:33:36] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[01:33:36]   * By Simon Campbell *
+  *********************
+[01:33:36]   * Version: 2.0      *
+  *********************
+[01:33:36]   * -- LOADED         *
+  *********************
+
+[01:33:36]   Loading filterscript 'FingexMapEditor.amx'...
+[01:33:36] >> The FingeX Map Editor has been LOADED.
+[01:33:36]   Loading filterscript 'anim.amx'...
+[01:33:36]   Loading filterscript 'sanim.amx'...
+[01:33:36]   Loading filterscript 'yrace.amx'...
+[01:33:36] 
++--------------------------------+
+[01:33:36] | Yagu's Race Filterscript v0.4a |
+[01:33:36] +--------------LOADED------------+
+
+[01:33:36]   Loaded 6 filterscripts.
+
+[01:33:36] [INITIALIZE] Gamemode loaded.
+[01:33:36] [INITIALIZE] Starting xMovie logging.
+[01:33:36] [MYSQL] Successful connection to MySQL database.
+[01:33:36] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[01:33:36]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[01:33:36] Number of vehicle models: 11
+[01:34:40] [connection] 127.0.0.1:61027 requests connection cookie.
+[01:34:41] [connection] incoming connection: 127.0.0.1:61027 id: 0
+[01:34:41] [join] DCactus has joined the server (0:127.0.0.1)
+[01:34:41] [JOIN] DCactus has joined the server.
+[01:34:41] [ADM-MSG] [0] DCactus's IP: 127.0.0.1 | Host: elegy | Country: 
+[01:36:16] [CMD] DCactus issues command /ls
+[01:36:19] [CMD] DCactus issues command /sf
+[01:36:25] [CMD-F] DCactus issues command /v(ehicle) elegy
+[01:41:33] [PART] DCactus has left the server. (Leaving)
+[01:41:33] [part] DCactus has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:03] 
+[01:42:03] Server Plugins
+[01:42:03] --------------
+[01:42:03]  Loading plugin: mysql
+[01:42:03] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: irc
+[01:42:03] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: streamer
+[01:42:03] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: sscanf
+[01:42:03] 
+
+[01:42:03]  ===============================
+
+[01:42:03]       sscanf plugin loaded.     
+
+[01:42:03]          Version:  2.8.2        
+
+[01:42:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:42:03]  ===============================
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: dns
+[01:42:03] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: geoip
+[01:42:03] GeoIP_Plugin got loaded.
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: audio
+[01:42:03] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[01:42:03]   Loaded.
+[01:42:03]  Loading plugin: Whirlpool
+[01:42:03]  
+[01:42:03]  ==================
+[01:42:03]  
+[01:42:03]   Whirlpool loaded
+[01:42:03]  
+[01:42:03]  ==================
+[01:42:03]  
+[01:42:03]   Loaded.
+[01:42:03]  Loaded 8 plugins.
+
+[01:42:03] 
+[01:42:03] Filterscripts
+[01:42:03] ---------------
+[01:42:03]   Loading filterscript 'irc.amx'...
+[01:42:03] *** Audio Plugin: Started TCP server on port 7777
+[01:42:03] [MYSQL] Succesfully connected to MySQL database (IRC fs).
+[01:42:03]   Loading filterscript 'mdebug.amx'...
+[01:42:03] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[01:42:03]   * By Simon Campbell *
+  *********************
+[01:42:03]   * Version: 2.0      *
+  *********************
+[01:42:03]   * -- LOADED         *
+  *********************
+
+[01:42:03]   Loading filterscript 'FingexMapEditor.amx'...
+[01:42:03] >> The FingeX Map Editor has been LOADED.
+[01:42:03]   Loading filterscript 'anim.amx'...
+[01:42:03]   Loading filterscript 'sanim.amx'...
+[01:42:03]   Loading filterscript 'yrace.amx'...
+[01:42:03] 
++--------------------------------+
+[01:42:03] | Yagu's Race Filterscript v0.4a |
+[01:42:03] +--------------LOADED------------+
+
+[01:42:03]   Loaded 6 filterscripts.
+
+[01:42:03] [INITIALIZE] Gamemode loaded.
+[01:42:03] [INITIALIZE] Starting xMovie logging.
+[01:42:03] [MYSQL] Successful connection to MySQL database.
+[01:42:03] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[01:42:03]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[01:42:03] Number of vehicle models: 11
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:35:31] 
+[19:35:31] Server Plugins
+[19:35:31] --------------
+[19:35:31]  Loading plugin: mysql
+[19:35:32] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[19:35:32]   Loaded.
+[19:35:32]  Loading plugin: irc
+[19:35:33] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[19:35:33]   Loaded.
+[19:35:33]  Loading plugin: streamer
+[19:35:33] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[19:35:33]   Loaded.
+[19:35:33]  Loading plugin: sscanf
+[19:35:33] 
+
+[19:35:33]  ===============================
+
+[19:35:33]       sscanf plugin loaded.     
+
+[19:35:33]          Version:  2.8.2        
+
+[19:35:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:35:33]  ===============================
+
+[19:35:33]   Loaded.
+[19:35:33]  Loading plugin: dns
+[19:35:34] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[19:35:34]   Loaded.
+[19:35:34]  Loading plugin: geoip
+[19:35:34] GeoIP_Plugin got loaded.
+[19:35:34]   Loaded.
+[19:35:34]  Loading plugin: audio
+[19:35:34] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[19:35:34]   Loaded.
+[19:35:34]  Loading plugin: Whirlpool
+[19:35:35]  
+[19:35:35]  ==================
+[19:35:35]  
+[19:35:35]   Whirlpool loaded
+[19:35:35]  
+[19:35:35]  ==================
+[19:35:35]  
+[19:35:35]   Loaded.
+[19:35:35]  Loaded 8 plugins.
+
+[19:35:35] 
+[19:35:35] Filterscripts
+[19:35:35] ---------------
+[19:35:35]   Loading filterscript 'irc.amx'...
+[19:35:35] *** Audio Plugin: Started TCP server on port 7777
+[19:35:39] [MYSQL] Could not connect to MySQL database! Starting offline (IRC fs). (Code #1)
+[19:35:39]   Loading filterscript 'mdebug.amx'...
+[19:35:39] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[19:35:39]   * By Simon Campbell *
+  *********************
+[19:35:39]   * Version: 2.0      *
+  *********************
+[19:35:39]   * -- LOADED         *
+  *********************
+
+[19:35:39]   Loading filterscript 'FingexMapEditor.amx'...
+[19:35:39] >> The FingeX Map Editor has been LOADED.
+[19:35:39]   Loading filterscript 'anim.amx'...
+[19:35:39]   Loading filterscript 'sanim.amx'...
+[19:35:39]   Loading filterscript 'yrace.amx'...
+[19:35:39] 
++--------------------------------+
+[19:35:39] | Yagu's Race Filterscript v0.4a |
+[19:35:39] +--------------LOADED------------+
+
+[19:35:39]   Loaded 6 filterscripts.
+
+[19:35:39] [INITIALIZE] Gamemode loaded.
+[19:35:39] [INITIALIZE] Starting xMovie logging.
+[19:35:43] [MYSQL] Could not connect to MySQL database! Starting offline. (Code #1)
+[19:35:43] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[19:35:43]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[19:35:43] Number of vehicle models: 11
+[19:36:59] [connection] 127.0.0.1:62379 requests connection cookie.
+[19:37:00] [connection] incoming connection: 127.0.0.1:62379 id: 0
+[19:37:01] [join] Liam_Grossman has joined the server (0:127.0.0.1)
+[19:37:01] [JOIN] Liam_Grossman has joined the server.
+[19:37:01] [ADM-MSG] [0] Liam_Grossman's IP: 127.0.0.1 | Host: elegy | Country: 
+[19:37:19] [CMD] Liam_Grossman issues command /sf
+[19:37:22] [CMD-F] Liam_Grossman issues command /v(ehicle) elegy
+[19:37:40] [CMD] Liam_Grossman issues command /cop
+[19:37:52] [CMD] Liam_Grossman issues command /copchase
+[19:38:31] [PART] Liam_Grossman has left the server. (Leaving)
+[19:38:31] [part] Liam_Grossman has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:50:39] 
+[18:50:39] Server Plugins
+[18:50:39] --------------
+[18:50:39]  Loading plugin: mysql
+[18:50:40] 
+
+  > MySQL plugin R7 successfully loaded.
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: irc
+[18:50:40] 
+
+*** IRC Plugin v1.4.2 by Incognito loaded ***
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: streamer
+[18:50:40] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: sscanf
+[18:50:40] 
+
+[18:50:40]  ===============================
+
+[18:50:40]       sscanf plugin loaded.     
+
+[18:50:40]          Version:  2.8.2        
+
+[18:50:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:50:40]  ===============================
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: dns
+[18:50:40] 
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: geoip
+[18:50:40] GeoIP_Plugin got loaded.
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: audio
+[18:50:40] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[18:50:40]   Loaded.
+[18:50:40]  Loading plugin: Whirlpool
+[18:50:40]  
+[18:50:40]  ==================
+[18:50:40]  
+[18:50:40]   Whirlpool loaded
+[18:50:40]  
+[18:50:40]  ==================
+[18:50:40]  
+[18:50:40]   Loaded.
+[18:50:40]  Loaded 8 plugins.
+
+[18:50:40] 
+[18:50:40] Filterscripts
+[18:50:40] ---------------
+[18:50:40]   Loading filterscript 'irc.amx'...
+[18:50:40] *** Audio Plugin: Started TCP server on port 7777
+[18:50:44] [MYSQL] Could not connect to MySQL database! Starting offline (IRC fs). (Code #1)
+[18:50:44]   Loading filterscript 'mdebug.amx'...
+[18:50:44] 
+  *********************
+  * SA:MP DEBUG 2.0   *
+[18:50:44]   * By Simon Campbell *
+  *********************
+[18:50:44]   * Version: 2.0      *
+  *********************
+[18:50:44]   * -- LOADED         *
+  *********************
+
+[18:50:44]   Loading filterscript 'FingexMapEditor.amx'...
+[18:50:44] >> The FingeX Map Editor has been LOADED.
+[18:50:44]   Loading filterscript 'anim.amx'...
+[18:50:44]   Loading filterscript 'sanim.amx'...
+[18:50:44]   Loading filterscript 'yrace.amx'...
+[18:50:44] 
++--------------------------------+
+[18:50:44] | Yagu's Race Filterscript v0.4a |
+[18:50:44] +--------------LOADED------------+
+
+[18:50:44]   Loaded 6 filterscripts.
+
+[18:50:44] [INITIALIZE] Gamemode loaded.
+[18:50:44] [INITIALIZE] Starting xMovie logging.
+[18:50:48] [MYSQL] Could not connect to MySQL database! Starting offline. (Code #1)
+[18:50:48] *** Audio_SetPack: Audio pack set to "xmovie_pack" (transferable and automated)
+[18:50:48]   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³ x&Movie ©® ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[18:50:48] Number of vehicle models: 11
+[18:51:10] [connection] 127.0.0.1:55699 requests connection cookie.
+[18:51:11] [connection] incoming connection: 127.0.0.1:55699 id: 0
+[18:51:11] [join] Liam_Grossman has joined the server (0:127.0.0.1)
+[18:51:11] [JOIN] Liam_Grossman has joined the server.
+[18:51:11] [ADM-MSG] [0] Liam_Grossman's IP: 127.0.0.1 | Host: elegy | Country: 
+[18:51:29] [CMD] Liam_Grossman issues command /sf
+[18:51:33] [CMD-F] Liam_Grossman issues command /v(ehicle) elegy
+[18:52:58] [CMD] Liam_Grossman issues command /fix
+[18:53:09] [CMD] Liam_Grossman issues command /fix
+[18:53:11] [CMD] Liam_Grossman issues command /fixed
+[18:53:12] [CMD] Liam_Grossman issues command /fix
+[18:54:11] [CMD-F] Liam_Grossman issues command /v(ehicle) infernus
+[18:54:51] [CMD-F] Liam_Grossman issues command /v(ehicle) turismo
+[18:56:33] [CMD] Liam_Grossman issues command /cv sultan
+[18:56:39] [CMD] Liam_Grossman issues command /vs 
+[18:56:43] [CMD] Liam_Grossman issues command /cv
+[18:56:45] [CMD] Liam_Grossman issues command /sv
+[18:56:48] [CMD-F] Liam_Grossman issues command /v(ehicle) sultan
+[18:57:25] [CMD-F] Liam_Grossman issues command /v(ehicle) felt
+[18:58:41] [CMD-F] Liam_Grossman issues command /v(ehicle) maverick
+[18:59:44] [CMD-F] Liam_Grossman issues command /v(ehicle) 600
+[19:00:31] [CMD-F] Liam_Grossman issues command /v(ehicle) 400
+[19:00:31] [ADM-MSG] [ADMIN-1]: {33AA33}*** Liam_Grossman Spawned "AT-400" (MODELID: 577, VEHICLEID: 74)
+[19:00:49] [CMD-F] Liam_Grossman issues command /v(ehicle) 400
+[19:00:49] [ADM-MSG] [ADMIN-1]: {33AA33}*** Liam_Grossman Spawned "AT-400" (MODELID: 577, VEHICLEID: 75)
+[19:00:59] [CMD-F] Liam_Grossman issues command /v(ehicle) 400
+[19:00:59] [ADM-MSG] [ADMIN-1]: {33AA33}*** Liam_Grossman Spawned "AT-400" (MODELID: 577, VEHICLEID: 76)
+[19:01:02] [CMD-F] Liam_Grossman issues command /v(ehicle) 400
+[19:01:02] [ADM-MSG] [ADMIN-1]: {33AA33}*** Liam_Grossman Spawned "AT-400" (MODELID: 577, VEHICLEID: 77)
+[19:01:11] [CMD-F] Liam_Grossman issues command /v(ehicle) 400
+[19:01:11] [ADM-MSG] [ADMIN-1]: {33AA33}*** Liam_Grossman Spawned "AT-400" (MODELID: 577, VEHICLEID: 78)
+[19:01:18] [CMD-F] Liam_Grossman issues command /v(ehicle) 401
+[19:02:02] [PART] Liam_Grossman has left the server. (Leaving)
+[19:02:02] [part] Liam_Grossman has left the server (0:1)

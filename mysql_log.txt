@@ -1,0 +1,15 @@
+[01:33:20]  
+[01:33:20]  ** MySQL Debugging disabled
+[01:33:20]  
+[01:33:36]  
+[01:33:36]  ** MySQL Debugging disabled
+[01:33:36]  
+[01:42:03]  
+[01:42:03]  ** MySQL Debugging disabled
+[01:42:03]  
+[19:35:35]  
+[19:35:35]  ** MySQL Debugging disabled
+[19:35:35]  
+[18:50:40]  
+[18:50:40]  ** MySQL Debugging disabled
+[18:50:40]  
